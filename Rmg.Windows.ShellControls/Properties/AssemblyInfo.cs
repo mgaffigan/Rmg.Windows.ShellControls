@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Rmg.Windows.ShellControls")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("RMG Windows ShellControls")]
+[assembly: AssemblyDescription("Windows Forms controls for hosting a IPreviewHandler in your application")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Rmg.Windows.ShellControls")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("Copyright © 2018 Mitch Gaffigan")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
