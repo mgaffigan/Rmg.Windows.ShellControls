@@ -4,15 +4,14 @@
     <id>$id$</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <authors>Mitch Gaffigan</authors>
+    <owners>Mitch Gaffigan</owners>
+    <licenseUrl>https://github.com/mgaffigan/Rmg.Windows.ShellControls/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/mgaffigan/Rmg.Windows.ShellControls</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
-    <copyright>Copyright 2018</copyright>
-    <tags>Tag1 Tag2</tags>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2018 Mitch Gaffigan</copyright>
+    <tags>Microsoft Windows Shell Preivew IPreviewHandler Winforms</tags>
   </metadata>
 </package>
